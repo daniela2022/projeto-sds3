@@ -1,10 +1,9 @@
 # projeto-sds3
 Site: https://daniela-sds3.netlify.app
 
-Spring - Backend
+Project for learning Spring Boot(Backend) and React/Bootstrap(Frontend) - 2021
 
-React/Bootstrap - Frontend
+Week Spring React 
 
-Semana Spring React 
 
-Evento promovido pela escola DevSuperior: @devsuperior.ig
+Promoted event by DevSuperior: @devsuperior.ig
